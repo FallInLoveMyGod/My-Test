@@ -16,6 +16,9 @@
     return  [pred evaluateWithObject:str];
     //  测试git
     NSLog(@"aaaaaaaa ====== test");
+    NSLog(@"aaaaaaaa ====== test");
+    NSLog(@"aaaaaaaa ====== test");
+    NSLog(@"aaaaaaaa ====== test");
 }
 
 @end
